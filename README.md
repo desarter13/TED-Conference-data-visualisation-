@@ -34,7 +34,7 @@ Educational Project (DataLens)
 --- 
 
 ### ✔️ Результаты
-* Дэшборд по проекту доступен по [ссылке]([https://datalens.yandex/gnkj0ymml2t40?tab=aW](https://datalens.yandex/mstbl46deacs6))
+* Дэшборд по проекту доступен по [ссылке](https://datalens.yandex/mstbl46deacs6)
   
 ---
 
